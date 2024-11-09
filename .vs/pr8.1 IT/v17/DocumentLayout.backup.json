@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Politeh\\AP\\LAB\\pr8\\pr8.1 IT\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C96CAAEE-527D-4908-9992-61D46C482C71}|UnitTest1\\UnitTest1.vcxproj|D:\\Politeh\\AP\\LAB\\pr8\\pr8.1 IT\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C96CAAEE-527D-4908-9992-61D46C482C71}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF6393B-1144-4601-8508-6F6AE538DD81}|pr8.1 IT\\pr8.1 IT.vcxproj|D:\\Politeh\\AP\\LAB\\pr8\\pr8.1 IT\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\pr8.1 IT\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6AF6393B-1144-4601-8508-6F6AE538DD81}|pr8.1 IT\\pr8.1 IT.vcxproj|solutionrelative:pr8.1 IT\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "D:\\Politeh\\AP\\LAB\\pr8\\pr8.1 IT\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "D:\\Politeh\\AP\\LAB\\pr8\\pr8.1 IT\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-08T23:22:18.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\Politeh\\AP\\LAB\\pr8\\pr8.1 IT\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\pr8.1 IT\\Source.cpp",
+              "RelativeDocumentMoniker": "pr8.1 IT\\Source.cpp",
+              "ToolTip": "D:\\Politeh\\AP\\LAB\\pr8\\pr8.1 IT\\\u041D\u043E\u0432\u0430 \u043F\u0430\u043F\u043A\u0430\\pr8.1 IT\\Source.cpp",
+              "RelativeToolTip": "pr8.1 IT\\Source.cpp",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-08T22:48:28.154Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
